@@ -1,4 +1,7 @@
-def add(a,b):
+
+def add(a, b):
     return a + b
-print("hello from jenkins ci/cd")
-print(add(5, 10))
+
+print("Hello from Jenkins CI/CD")
+
+print("Addition:", add(5, 10))
